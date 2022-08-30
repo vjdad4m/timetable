@@ -1,0 +1,57 @@
+{
+    "0": {
+        "8": "Literature - Mozer @ 16\nMaths - Pataki @ 55\nMaths - Morvai @ 60",
+        "9": "Maths - Doros @ 65\nMaths - Pataki @ 55\nMaths - Steller @ 66",
+        "10": "English @ 65\nGerman @ 80",
+        "11": "Biology - Molnár B @ B2\nBiology - Molnár Á @ B1",
+        "12": "Physical Education",
+        "13": "Physics - Török @ FB\nChemistry - Albert @ K1\nHistory - Ispánovity @ 55",
+        "14": "Physics - Török @ FB\nChemistry - Albert @ K1",
+        "15": "Psychology @ 10",
+        "16": "Psychology @ 10"
+    },
+    "1": {
+        "8": "Biology - Molnár B @ B1",
+        "9": "German @ 61\nEnglish @ 65",
+        "10": "Literature @ 65",
+        "11": "Russian @ 55\nFrench @ 80\nEnglish @ 65",
+        "12": "History - Ispánovity @ 9\nHistory - Vlasits @ 65",
+        "13": "Maths - Pataki @ 10\nMaths - Doros @ 65\nMaths - Steller @ 9",
+        "14": "Art - Horváth @ 63\nArt - Ruszkai @ 65",
+        "15": "Art - Horváth @ 63\nArt - Ruszkai @ 65",
+        "16": "Art History @ 73\nDigital Culture - Szatmári @ 24",
+        "17": "Art History @ 73\nDigital Culture - Szatmári @ 24"
+    },
+    "2": {
+        "8": "Homeroom @ 65",
+        "9": "Linguistics @ 65",
+        "10": "Physics - Nógrádi @ 57\nPhysics - Szabó @ FB",
+        "11": "German @ 85\nEnglish @ 65",
+        "12": "Russian @ 81\nFrench @ 86\nGerman @ 85",
+        "13": "Russian @ 81\nFrench @ 86\nEnglish @ 65",
+        "14": "Literature - Mozer @ 16\nMaths - Kornai @ 10\nMaths - Morvai @ 9",
+        "15": "Literature - Mozer @ 16\nEconomics @ 12\nMedia @ 73",
+        "16": "Economics @ 12\nMedia @ 73"
+    },
+    "3": {
+        "8": "History - Ispánovity @ 14\nHistory - Vlasits @ 65",
+        "9": "Maths - Doros @ 65\nMaths - Pataki @ 66\nMaths - Steller @ 56",
+        "10": "Russian @ 81\nFrench @ 14\nEnglish @ 65",
+        "11": "Literature @ 65",
+        "12": "German @ 61\nEnglish @ 65",
+        "13": "Physical Education",
+        "14": "Biology - Molnár B @ B1\nBiology - Molnár Á @ B3",
+        "15": "Biology - Molnár B @ B3",
+        "16": "Digital Culture - Simon @ 24",
+        "17": "Digital Culture - Simon @ 24"
+    },
+    "4": {
+        "8": "Physics - Török @ FB\nChemistry - Albert @ K1\nHistory - Ispánovity @ 55",
+        "9": "History - Ispánovity @ 55\nHistory - Vlasits @ 65",
+        "10": "Physics - Nógrádi @ FB\nPhysics - Szabó @ FB",
+        "11": "Maths - Kornai @ 56\nMaths - Steller @ 9\nMaths - Doros @ 65",
+        "12": "Russian @ 81\nFrench @ 80\nEnglish @ 65",
+        "13": "Literature @ 65",
+        "14": "Physical Education"
+    }
+}
