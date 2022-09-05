@@ -45,9 +45,9 @@ function update() {
                     msg = '<i>School is over!</i>';
                 }
             }
-            next = timetable[day][hrs+1]
+            next = timetable[day][("0" + (parseInt(hrs) + 1).toString()).slice(-2)];
             if (next == undefined) {
-                next = '<i>School is over!</i>'
+                next = '';
             }
         }
     }
